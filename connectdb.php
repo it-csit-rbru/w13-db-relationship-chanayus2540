@@ -1,7 +1,7 @@
 <?php
     $host = "localhost";
-    $db = "s6015261010";
-    $usr = "s6015261010";
+    $db = "s6015261003";
+    $usr = "s6015261003";
     $pwd = "ce601";
     $port = "3306";
     $conn = mysqli_connect($host,$usr,$pwd,$db,$port);
